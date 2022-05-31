@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ISERDM-2023/static/css/main.81b3431b.chunk.css",
-    "main.js": "/ISERDM-2023/static/js/main.59a4ac14.chunk.js",
-    "main.js.map": "/ISERDM-2023/static/js/main.59a4ac14.chunk.js.map",
+    "main.js": "/ISERDM-2023/static/js/main.3c39d0bc.chunk.js",
+    "main.js.map": "/ISERDM-2023/static/js/main.3c39d0bc.chunk.js.map",
     "runtime-main.js": "/ISERDM-2023/static/js/runtime-main.f1de8f9b.js",
     "runtime-main.js.map": "/ISERDM-2023/static/js/runtime-main.f1de8f9b.js.map",
     "static/css/2.0a9ec390.chunk.css": "/ISERDM-2023/static/css/2.0a9ec390.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.aecdd8ac.chunk.js",
     "static/css/main.81b3431b.chunk.css",
-    "static/js/main.59a4ac14.chunk.js"
+    "static/js/main.3c39d0bc.chunk.js"
   ]
 }
