@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/ISERDM-2023/static/css/main.a3dcfc8d.chunk.css",
-    "main.js": "/ISERDM-2023/static/js/main.b809f1a5.chunk.js",
-    "main.js.map": "/ISERDM-2023/static/js/main.b809f1a5.chunk.js.map",
+    "main.js": "/ISERDM-2023/static/js/main.1c7af355.chunk.js",
+    "main.js.map": "/ISERDM-2023/static/js/main.1c7af355.chunk.js.map",
     "runtime-main.js": "/ISERDM-2023/static/js/runtime-main.f1de8f9b.js",
     "runtime-main.js.map": "/ISERDM-2023/static/js/runtime-main.f1de8f9b.js.map",
     "static/css/2.0a9ec390.chunk.css": "/ISERDM-2023/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.48b2dc5c.chunk.js": "/ISERDM-2023/static/js/2.48b2dc5c.chunk.js",
-    "static/js/2.48b2dc5c.chunk.js.map": "/ISERDM-2023/static/js/2.48b2dc5c.chunk.js.map",
+    "static/js/2.8f8d6fdb.chunk.js": "/ISERDM-2023/static/js/2.8f8d6fdb.chunk.js",
+    "static/js/2.8f8d6fdb.chunk.js.map": "/ISERDM-2023/static/js/2.8f8d6fdb.chunk.js.map",
     "index.html": "/ISERDM-2023/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/ISERDM-2023/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.a3dcfc8d.chunk.css.map": "/ISERDM-2023/static/css/main.a3dcfc8d.chunk.css.map",
-    "static/js/2.48b2dc5c.chunk.js.LICENSE.txt": "/ISERDM-2023/static/js/2.48b2dc5c.chunk.js.LICENSE.txt",
+    "static/js/2.8f8d6fdb.chunk.js.LICENSE.txt": "/ISERDM-2023/static/js/2.8f8d6fdb.chunk.js.LICENSE.txt",
+    "static/media/cdac.eae99334.png": "/ISERDM-2023/static/media/cdac.eae99334.png",
     "static/media/map.7db7db3e.png": "/ISERDM-2023/static/media/map.7db7db3e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f1de8f9b.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.48b2dc5c.chunk.js",
+    "static/js/2.8f8d6fdb.chunk.js",
     "static/css/main.a3dcfc8d.chunk.css",
-    "static/js/main.b809f1a5.chunk.js"
+    "static/js/main.1c7af355.chunk.js"
   ]
 }
