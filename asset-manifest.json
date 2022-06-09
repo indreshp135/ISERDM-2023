@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ISERDM-2023/static/css/main.81b3431b.chunk.css",
-    "main.js": "/ISERDM-2023/static/js/main.0a8b72c5.chunk.js",
-    "main.js.map": "/ISERDM-2023/static/js/main.0a8b72c5.chunk.js.map",
+    "main.css": "/ISERDM-2023/static/css/main.a3dcfc8d.chunk.css",
+    "main.js": "/ISERDM-2023/static/js/main.b809f1a5.chunk.js",
+    "main.js.map": "/ISERDM-2023/static/js/main.b809f1a5.chunk.js.map",
     "runtime-main.js": "/ISERDM-2023/static/js/runtime-main.f1de8f9b.js",
     "runtime-main.js.map": "/ISERDM-2023/static/js/runtime-main.f1de8f9b.js.map",
     "static/css/2.0a9ec390.chunk.css": "/ISERDM-2023/static/css/2.0a9ec390.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.48b2dc5c.chunk.js.map": "/ISERDM-2023/static/js/2.48b2dc5c.chunk.js.map",
     "index.html": "/ISERDM-2023/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/ISERDM-2023/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.81b3431b.chunk.css.map": "/ISERDM-2023/static/css/main.81b3431b.chunk.css.map",
+    "static/css/main.a3dcfc8d.chunk.css.map": "/ISERDM-2023/static/css/main.a3dcfc8d.chunk.css.map",
     "static/js/2.48b2dc5c.chunk.js.LICENSE.txt": "/ISERDM-2023/static/js/2.48b2dc5c.chunk.js.LICENSE.txt",
     "static/media/map.7db7db3e.png": "/ISERDM-2023/static/media/map.7db7db3e.png"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.f1de8f9b.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.48b2dc5c.chunk.js",
-    "static/css/main.81b3431b.chunk.css",
-    "static/js/main.0a8b72c5.chunk.js"
+    "static/css/main.a3dcfc8d.chunk.css",
+    "static/js/main.b809f1a5.chunk.js"
   ]
 }
