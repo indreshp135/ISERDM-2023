@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/ISERDM-2023/static/css/main.11cdd733.css",
-    "main.js": "/ISERDM-2023/static/js/main.0f7cdcdc.js",
+    "main.css": "/ISERDM-2023/static/css/main.15858918.css",
+    "main.js": "/ISERDM-2023/static/js/main.e53b69e3.js",
     "static/media/map.png": "/ISERDM-2023/static/media/map.7db7db3e21b34ffe46a8.png",
     "static/media/nitt.png": "/ISERDM-2023/static/media/nitt.8f5be3358b3aba633635.png",
+    "static/media/img.png": "/ISERDM-2023/static/media/img.ffd3e6ef0350321011f0.png",
+    "static/media/image3.jpg": "/ISERDM-2023/static/media/image3.9e1ee4636842be131d27.jpg",
+    "static/media/image4.png": "/ISERDM-2023/static/media/image4.d119377c9ff7975ae7c0.png",
     "static/media/cdac.png": "/ISERDM-2023/static/media/cdac.eae9933473b3f52fdab4.png",
+    "static/media/image6.jpg": "/ISERDM-2023/static/media/image6.64ba456b19e48993fb90.jpg",
+    "static/media/gld.png": "/ISERDM-2023/static/media/gld.a08893bb6951cc60986f.png",
+    "static/media/brz.png": "/ISERDM-2023/static/media/brz.ee964420a64ee56f8427.png",
+    "static/media/image1.png": "/ISERDM-2023/static/media/image1.32d21d4e1c8eee4977dc.png",
+    "static/media/sil.png": "/ISERDM-2023/static/media/sil.6ff7f118f0cc0c291196.png",
     "index.html": "/ISERDM-2023/index.html",
-    "main.11cdd733.css.map": "/ISERDM-2023/static/css/main.11cdd733.css.map",
-    "main.0f7cdcdc.js.map": "/ISERDM-2023/static/js/main.0f7cdcdc.js.map"
+    "main.15858918.css.map": "/ISERDM-2023/static/css/main.15858918.css.map",
+    "main.e53b69e3.js.map": "/ISERDM-2023/static/js/main.e53b69e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.11cdd733.css",
-    "static/js/main.0f7cdcdc.js"
+    "static/css/main.15858918.css",
+    "static/js/main.e53b69e3.js"
   ]
 }
